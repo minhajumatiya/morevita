@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /product/
+Disallow: /admin
+Disallow: /login
+
+# Sitemaps (Jab aap sitemap banayein tab link yahan aayegi)
